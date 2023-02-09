@@ -21,6 +21,16 @@
       "publisher": "Bloomsbury",
       "cost": 1299,
       "borrowed": false
+    },
+    {
+      "image_url": "https://th.bing.com/th/id/OIP.9sJBMiTlm_TiHqWVgchbpwHaLq?pid=ImgDet&rs=1",
+      "book_name": "INDIAN ABOVE ALL",
+      "author": "A.P.J ABDUL KALAM",
+      "genre": "science",
+      "edition": "2020",
+      "publisher": "ARUN",
+      "cost": 120,
+      "borrowed": false
     }
   ]
 }
